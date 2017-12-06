@@ -7,7 +7,7 @@
 Readme_log | 一些训练的日志，主要是训练的loss和acc
 Readme_models | 一些训练的模型
 Readme_result | 程序forward的最终结果，保留了10个类别的output
-submission | 最终提交的结果文件
+submission.png | 最终提交的结果示意图
 CIFAR10_train | CIFAR10上训练模型和产生结果的代码，主程序。
 plot | 绘制一些模型训练过程的精度和loss曲线
 netlib.py | ResNet18, ResNet164_v2, densenet, Focal Loss 的gluon的实现,被调用。
